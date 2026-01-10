@@ -2,9 +2,7 @@
 
 This repository accompanies **ADR-0001: Affordance-Driven REST with Mandatory Hypermedia Links**.
 
-Please read:
-
-- `ADR-0001-affordance-driven-rest.md` — architectural decision and rationale
+Please read the [architectural decision and rationale](ADR-0001-affordance-driven-rest.md) 
 
 ## Quick start
 
