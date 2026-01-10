@@ -65,5 +65,5 @@ rather than a collection of hard-coded endpoints, while allowing progressive
 enhancement for richer user experiences.
 
 ## Related
-- RFC 9110 (HTTP Semantics)
-- Roy Fielding, "Architectural Styles and the Design of Network-based Software Architectures"
+- [RFC 9110 (HTTP Semantics)](https://www.rfc-editor.org/rfc/rfc9110.html)
+- Roy Fielding, ["Architectural Styles and the Design of Network-based Software Architectures"](https://roy.gbiv.com/pubs/dissertation/fielding_dissertation.pdf)
